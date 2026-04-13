@@ -1,0 +1,24 @@
+apimServiceName: apiops-demo-prod-apim
+namedValues:
+  - name: environment
+    properties:
+      displayName: environment
+      secret: false
+      value: "https://www.search2.com"
+# backends:
+#   - name: helloworldfromfuncapp
+#     properties:
+#       url: "https://helloworldfromprodfuncapp.azurewebsites.net/api"
+#       resourceId: "https://management.azure.com/subscriptions/[subscription Guid goes here]/resourceGroups/rg-apim-lab-prod/providers/Microsoft.Web/sites/helloworldfromprodfuncapp"
+#       credentials:
+#         header:
+#           "x-custom-headerissimo": [
+#             "superheader"
+#           ]
+#           "x-custom-anotherheader": [
+#             "anotherheader"
+#           ]
+apis:
+  - name: swagger-petstore
+    properties:
+      displayName: swagger-petstore-prod
