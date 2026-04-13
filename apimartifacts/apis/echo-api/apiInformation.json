@@ -3,7 +3,7 @@
     "path": "echo",
     "apiRevision": "1",
     "authenticationSettings": {},
-    "displayName": "Echo API",
+    "displayName": "Echo API Mod",
     "isCurrent": true,
     "protocols": [
       "https"
