@@ -1,10 +1,10 @@
 openapi: 3.0.1
 info:
-  title: ApiDemo004
+  title: ApiDemo005
   description: ''
   version: '1.0'
 servers:
-  - url: https://apiops-demo-dev-apim.azure-api.net/apidemo004
+  - url: https://apiops-demo-dev-apim.azure-api.net/apidemo005
 paths:
   /talk:
     get:

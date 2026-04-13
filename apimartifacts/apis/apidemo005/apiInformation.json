@@ -1,10 +1,10 @@
 {
   "properties": {
-    "path": "apidemo004",
+    "path": "apidemo005",
     "apiRevision": "1",
     "authenticationSettings": {},
     "description": "",
-    "displayName": "ApiDemo004",
+    "displayName": "ApiDemo005",
     "isCurrent": true,
     "protocols": [
       "https"
