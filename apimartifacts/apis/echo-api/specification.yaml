@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: Echo API Modificate
+  title: Echo API Mod
   version: '1.0'
 servers:
   - url: https://apiops-demo-dev-apim.azure-api.net/echo
