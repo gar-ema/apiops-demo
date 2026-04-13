@@ -22,5 +22,5 @@ apis:
   - name: swagger-petstore
     properties:
       displayName: swagger-petstore-prod
-# apisToIgnore:
-#   - name: apidemo003
+apisToIgnore:
+  - name: apidemo005
