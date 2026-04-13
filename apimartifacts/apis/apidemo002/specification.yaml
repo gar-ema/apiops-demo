@@ -1,16 +1,15 @@
 openapi: 3.0.1
 info:
-  title: ApiDemo001
+  title: ApiDemo002
   description: ''
   version: '1.0'
 servers:
-  - url: https://apiops-demo-dev-apim.azure-api.net/apidemo001
+  - url: https://apiops-demo-dev-apim.azure-api.net/ApiDemo002
 paths:
-  /session:
+  /speakers:
     get:
-      summary: GetSession
-      description: GetSession
-      operationId: getsession
+      summary: get speakers
+      operationId: get-speakers
       responses:
         '200':
           description: ''

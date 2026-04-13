@@ -1,15 +1,14 @@
 {
   "properties": {
-    "path": "apidemo001",
+    "path": "ApiDemo002",
     "apiRevision": "1",
     "authenticationSettings": {},
     "description": "",
-    "displayName": "ApiDemo001",
+    "displayName": "ApiDemo002",
     "isCurrent": true,
     "protocols": [
       "https"
     ],
-    "serviceUrl": "https://apiops-demo-dev-apim.azure-api.net/apidemo001",
     "subscriptionKeyParameterNames": {
       "header": "Ocp-Apim-Subscription-Key",
       "query": "subscription-key"
