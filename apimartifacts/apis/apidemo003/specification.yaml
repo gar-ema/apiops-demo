@@ -9,6 +9,7 @@ paths:
   /speakers:
     get:
       summary: get speakers
+      description: get speakers
       operationId: get-speakers
       responses:
         '200':
