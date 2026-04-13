@@ -22,3 +22,5 @@ apis:
   - name: swagger-petstore
     properties:
       displayName: swagger-petstore-prod
+apisToPurge:
+  - name: apidemo002
