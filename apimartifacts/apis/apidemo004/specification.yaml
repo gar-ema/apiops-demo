@@ -9,6 +9,7 @@ paths:
   /talk:
     get:
       summary: get talk
+      description: get talk
       operationId: get-talk
       responses:
         '200':
